@@ -1,0 +1,43 @@
+
+b
+java:S1192"GDefine a constant instead of duplicating this literal "Hello " 4 times.(üİ˜ü8ä¦Øù/
+<
+java:S1604"(Make this anonymous inner class a lambda(‰ìš¶
+\
+java:S1854"ARemove this useless assignment to local variable "simpleAction6".(Ñøå„8é¦Øù/
+\
+java:S1854"ARemove this useless assignment to local variable "simpleAction5".(¨Ãâ8ë¦Øù/
+U
+java:S1854"ARemove this useless assignment to local variable "simpleAction4".(ÇÈ§Ù
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(”á˜¾ÿÿÿÿÿ
+C
+java:S6212"/Declare this local variable with "var" instead.(©îá™
+g
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(©îá™
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(¬Æ¸³ûÿÿÿÿ
+C
+java:S6212"/Declare this local variable with "var" instead.(¿ÜŒ÷
+g
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¿ÜŒ÷
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ú¢¯áıÿÿÿÿ
+H
+java:S6212"/Declare this local variable with "var" instead.(ûïÜÿÿÿÿÿ
+K
+java:S1611"2Remove the parentheses around the "name" parameter(ûïÜÿÿÿÿÿ
+l
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ûïÜÿÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Ş™²Ì
+J
+java:S6212"/Declare this local variable with "var" instead.(ÇÈ§Ù8ï´Ôù/
+J
+java:S6212"/Declare this local variable with "var" instead.(¨Ãâ8„§Øù/
+M
+java:S1611"2Remove the parentheses around the "name" parameter(¨Ãâ8†§Øù/
+J
+java:S6212"/Declare this local variable with "var" instead.(Ñøå„8‡§Øù/
+F
+java:S1481"2Remove this unused "simpleAction4" local variable.(ÇÈ§Ù
+M
+java:S1481"2Remove this unused "simpleAction5" local variable.(¨Ãâ8Š§Øù/
+M
+java:S1481"2Remove this unused "simpleAction6" local variable.(Ñøå„8‹§Øù/

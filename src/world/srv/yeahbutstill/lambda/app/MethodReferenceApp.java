@@ -21,10 +21,8 @@ public class MethodReferenceApp {
 
     public void run() {
 
-        MerhodReferenceApp app = new MerhodReferenceApp();
-
         // method reference Non static
-        Predicate<String> predicate = app::isLowerCase;
+        Predicate<String> predicate = this::isLowerCase;
 
         System.out.println(predicate.test("Azhilla"));
         System.out.println(predicate.test("azhilla"));
